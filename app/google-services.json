@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "598209791626",
+    "firebase_url": "https://bakery-114ee.firebaseio.com",
+    "project_id": "bakery-114ee",
+    "storage_bucket": "bakery-114ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598209791626:android:342ee24a2bc6940d",
+        "android_client_info": {
+          "package_name": "mra.com.tastyfoodcafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598209791626-loq2nmb4nr02g65gl1ua4doj6ui4b4dp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mra.com.tastyfoodcafe",
+            "certificate_hash": "93cfe083c6a4d104b925baad23b356baac779af2"
+          }
+        },
+        {
+          "client_id": "598209791626-du5q7uebapnrsh6r203fe9fhdqk18b0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqVuXmyO86gQCyYAX17yk7lm7b_mPiJsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598209791626-du5q7uebapnrsh6r203fe9fhdqk18b0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
